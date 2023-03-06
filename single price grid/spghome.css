@@ -1,0 +1,48 @@
+body{
+    background-color: lightgoldenrodyellow;
+    display: flex;
+    width: 100;
+    height: 100;
+    position: center;
+    padding-top: 100px;
+    padding-left: 350px;
+}
+
+div.topb{
+    padding: 15px;
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 10px solid;
+    border-radius: 5px;
+    border-color: lightcoral;
+}
+
+div.payment{
+    padding: 15px;
+    text-align: center;
+    font-size: large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 10px solid;
+    border-radius: 5px;
+    border-color: lightcoral;
+    width: 50;
+}
+
+.button{
+    background-color: lightcoral;
+    color: white;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.footer{
+    padding: 15px;
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 10px solid;
+    border-radius: 5px;
+    border-color: lightcoral;
+    width: 50;
+}
